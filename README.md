@@ -22,8 +22,8 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 ## Key Insights for Presentation
 
 > - We observed that when euribor 3 month rate is less than 2, clients under the age of 60 are twice more likely to open a term deposit. We should noticed that bank called only half the number of customers when euribor was less than 2 as compared to otherwise. So, we should target to call more customers during this period for better success rate.
-> - In overall data, [students and retirees](#job-prop) are much more likely to open term deposit. [45%](#above_60) of clients above 60 years of age agreed to open term deposit. But we have only [2.5%](#age-distribution) of customers in this range. It is recommended to include more of students, retirees and clients older than 60 years of age to get a better success rate in overall dataset.
-> - Clients for whom previous campaign outcome was successful, agreed to [65%](#p-poutcome) of the calls. This is significant figure and can be used to target customers in further campaigns.
+> - In overall data, students and retirees are much more likely to open term deposit. 45% of clients above 60 years of age agreed to open term deposit. But we have only 2.5% of customers in this range. It is recommended to include more of students, retirees and clients older than 60 years of age to get a better success rate in overall dataset.
+> - Clients for whom previous campaign outcome was successful, agreed to 65% of the calls. This is significant figure and can be used to target customers in further campaigns.
 
 <br>
 
