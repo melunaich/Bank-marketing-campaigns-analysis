@@ -5,10 +5,18 @@
 
 ## Dataset
 
-We will be analyzing [Bank marketing campaigns dataset](https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset#bank-additional-full.csv) which is publicly available on Kaggle. This dataset describes Portugal bank marketing campaigns results. Conducted campaigns were based mostly on direct phone calls, offering bank client to place a term deposit. If the client says yes to opening the term deposit account, the target variable `'y'` is marked as 'yes', else 'no'.
+Here we are analyzing [Bank marketing campaigns dataset](https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset#bank-additional-full.csv) which is publicly available on Kaggle. This dataset describes Portugal bank marketing campaigns results. Conducted campaigns were based mostly on direct phone calls, offering bank client to place a term deposit. If the client says yes to opening the term deposit account, the target variable `'y'` is marked as 'yes', else 'no'.
 
 Sourse of the data:
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+
+<br>
+
+## Approach Undertaken
+
+We majorly explore the data through Univariate, Bivariate and Multivariate data exploration. Statistics has also been used in the process. This is accomplished through Jupyter Notebook and Python libraries such as Pandas, Numpy, Matplotlib and Seaborn.
+
 
 <br>
 
@@ -29,17 +37,11 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 <br>
 
 
-## Software used
+## Pre-requsites:
+
 - Jupyter Notebook
 - Python 3.7
     - Pandas
     - Numpy
     - Matplotlib
     - Seaborn
-
-<br>
-
-## Pre-requsites:
-> - pip install pandas
-> - pip install seaborn
-> - pip install matplotlib
